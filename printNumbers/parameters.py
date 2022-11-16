@@ -2,7 +2,7 @@
 #
 # parameters.py
 #
-## This file is part of printNumbers.
+## This file is part of printNumbers. 16.11.2022 no change
 #
 # Copyright (C) 2017 G. Trensch, Simulation & Datalab Neuroscience, JSC, FZ Juelich
 #
